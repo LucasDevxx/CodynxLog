@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dados.json
+*.tmp
+.vscode/
+.env
+.env.*
+*.log
+.pytest_cache/
+.coverage
+.DS_Store
